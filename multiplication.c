@@ -11,5 +11,4 @@ int main()
         printf("%d X %d = %d\n" ,a,c,a*c);
     }
     return 0;
-    getch();
 }
