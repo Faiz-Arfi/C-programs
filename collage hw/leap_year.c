@@ -9,11 +9,11 @@ int main()
     printf("Enter the year\n");
     scanf("%d", &year);
 
-    if ((year%400) == 0 )
+    if ((year % 400) == 0)
     {
         printf("the year is leap year\n");
     }
-    else if (year%100 != 0 && year%4==0)
+    else if (year % 100 != 0 && year % 4 == 0)
     {
         printf("the year is leap year\n");
     }
