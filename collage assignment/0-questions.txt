@@ -1,0 +1,12 @@
+ Wap in c to display first 10 natural number 
+ wap in c to display sum of first 10 natural number
+ wap in c to display n terms of natural number and their sum
+ Wap in c to display multiplication table of given integer 
+ wap in c to display n terms of odd natural number and their sum
+ wap in c to display n terms of even natural number and their sum
+ wap in c to print all even numbers between 1 to 100 using while loop
+ wap in c to print all odd numbers between 1 to 100 using while loop
+ wap in c to print all natural numbers between 1 to n using while loop
+ wap in c to print all natural numbers in reverse form (from n to 1)
+ wap in c to print all alphabets (a - z)
+ wap in c to find the sum to first and last digit of number 
